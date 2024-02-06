@@ -6,5 +6,6 @@ public class Main{
         // Código principal del programa
         System.out.println("¡Hola, mundo!");
         JOptionPane.showMessageDialog(null, "Sapo");
+        JOptionPane.showInputDialog(null, "szs");
     }
 }
