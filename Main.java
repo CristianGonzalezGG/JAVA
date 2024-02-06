@@ -7,5 +7,7 @@ public class Main{
         System.out.println("¡Hola, mundo!");
         JOptionPane.showMessageDialog(null, "Sapo");
         JOptionPane.showInputDialog(null, "szs");
+        JOptionPane.showInputDialog(null, "szs");
+        JOptionPane.showInputDialog(null, "szs");
     }
 }
